@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "KMLToSVG",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.1.4",
+    "parse-kml": "^1.0.1"
+  }
+}
